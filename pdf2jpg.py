@@ -4,8 +4,7 @@ __version__ = "1.0"
 '''
 pdf-to-jpg-converter.py converts PDF to JPG images
 
-example usage: python pdf-to-jpg-converter.py -i input-pdf/ -o output-jpgs/
-
+example usage: python pdf2jpg.py -i input-pdf/ -o output-jpgs/
 '''
 
 
