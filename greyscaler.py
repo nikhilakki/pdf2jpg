@@ -13,7 +13,6 @@ logging.basicConfig(
      datefmt='%H:%M:%S'
  )
 
-path = 'DATA/amazon-invoices/jpg'
 def greyscaler(image_path, img, save_dir):
     file_name = os.path.join(image_path, img)
     image = Image.open(file_name).convert('L')
