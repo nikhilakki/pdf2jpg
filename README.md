@@ -26,6 +26,8 @@ with pipenv (recommended)
 ```bash
 pipenv install
 ```
+
+to see documentation
 ```bash
 python pdf2jpg.py -h #(to see help)
 python greyscaler.py -h #(to see help)
