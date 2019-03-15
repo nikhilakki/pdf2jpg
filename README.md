@@ -12,6 +12,14 @@ Features : -
 3. Fast...!
 
 
+how to run ?
+
+```bash
+pip install -r requirements.txt (install requirements)
+python pdf2jpg.py -h #(to see help)
+python greyscaler.py -h #(to see help)
+```
+
 MIT License
 
 Copyright (c) 2019 Nikhil Akki
