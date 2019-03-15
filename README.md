@@ -16,6 +16,7 @@ how to run ?
 
 ```bash
 git clone https://github.com/nikhilakki/pdf2jpg
+cd pdf2jpg
 ```
 with pip
 ```bash
