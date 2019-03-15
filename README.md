@@ -20,7 +20,7 @@ cd pdf2jpg
 ```
 with pip
 ```bash
-pip install -r requirements.txt (install requirements)
+pip install -r requirements.txt 
 ```
 with pipenv (recommended)
 ```bash
