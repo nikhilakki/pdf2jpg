@@ -16,8 +16,11 @@ import time
 import argparse
 
 
-logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
-logging.info('logged init')
+logging.basicConfig(
+     level=logging.INFO,
+     format= '[%(asctime)s] {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s',
+     datefmt='%H:%M:%S'
+)
 
 
 def list_pdfs(path='resume-data/data'):
