@@ -15,7 +15,17 @@ Features : -
 how to run ?
 
 ```bash
+git clone https://github.com/nikhilakki/pdf2jpg
+```
+with pip
+```bash
 pip install -r requirements.txt (install requirements)
+```
+with pipenv (recommended)
+```bash
+pipenv install
+```
+```bash
 python pdf2jpg.py -h #(to see help)
 python greyscaler.py -h #(to see help)
 ```
