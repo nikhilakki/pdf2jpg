@@ -29,6 +29,7 @@ pipenv install
 
 to see documentation
 ```bash
+pipenv shell
 python pdf2jpg.py -h #(to see help)
 python greyscaler.py -h #(to see help)
 ```
